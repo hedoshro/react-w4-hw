@@ -1,3 +1,12 @@
+h2 {
+  color: #ea62a1;
+}
+h3 {
+  color: #713dee;
+}
+ul {
+  list-style: none;
+}
 .App {
   text-align: center;
 }
