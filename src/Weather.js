@@ -51,8 +51,10 @@ export default function () {
       </form>
       <h4>{details}</h4>
       <p>
-        <a href="https://github.com/hedoshro/react-w4-hw">open-source</a> coded
-        by Hedie Rahimi
+        <a href="https://github.com/hedoshro/react-w4-hw" target="_blank">
+          open-source
+        </a>{" "}
+        coded by Hedie Rahimi
       </p>
     </div>
   );
