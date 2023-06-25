@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-export default function () {
+export default function Weather() {
   const [input, setInput] = useState("");
   const [details, setDetails] = useState("");
 
